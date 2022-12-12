@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://plutor.micro.blog/2022/12/12/the-closest-thing.html",
+				
+				"content_html": "<p>The closest thing I have to synesthesia is a perpetual desire to find the volume of music that &ldquo;fills&rdquo; my ears. It&rsquo;s an indescribable and elusive point that&rsquo;s pretty loud, but not <em>very loud</em>.</p>\n",
+				"content_text": "The closest thing I have to synesthesia is a perpetual desire to find the volume of music that \"fills\" my ears. It's an indescribable and elusive point that's pretty loud, but not _very loud_.\n",
+				"date_published": "2022-12-12T12:09:57-05:00",
+				"url": "https://plutor.micro.blog/2022/12/12/the-closest-thing.html"
+			},
+			{
 				"id": "http://plutor.micro.blog/2022/12/01/happy-december-and.html",
 				
 				"content_html": "<p>Happy December, and happy <a href=\"http://adventofcode.com/2022\">Advent of Code</a>. As per my tradition, I&rsquo;m trying to learn a new language. Since I enjoyed the functional-ish aspects of Kotlin so much last year, I decided to try a fully functional language this year: Haskell. And oh boy was day one a challenge!</p>\n<p>Follow my progress <a href=\"https://github.com/Plutor/advent-of-code-2022\">at my Github repo</a></p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://plutor.micro.blog/2022/11/18/in-response-to.html",
 				
 				"content_html": "<p>In response to this tweet, I asserted we were in the latter group and <em>literally everyone else on the server</em> was certain we were in the former. One said &ldquo;It goes to show how much Plutor is holding back&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In response to this tweet, I asserted we were in the latter group and _literally everyone else on the server_ was certain we were in the former. One said \"It goes to show how much Plutor is holding back\"\n\n<img src=\"uploads/2022/1622d29562.png\" width=\"556\" height=\"189\" alt=\"\">\n",
+				"content_text": "In response to this tweet, I asserted we were in the latter group and _literally everyone else on the server_ was certain we were in the former. One said \"It goes to show how much Plutor is holding back\"\n\n<img src=\"https://plutor.micro.blog/uploads/2022/1622d29562.png\" width=\"556\" height=\"189\" alt=\"\">\n",
 				"date_published": "2022-11-18T09:04:12-05:00",
 				"url": "https://plutor.micro.blog/2022/11/18/in-response-to.html"
 			},
@@ -122,7 +130,7 @@
 				"id": "http://plutor.micro.blog/2022/10/30/093156.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/31197a0aa3.jpg\" width=\"600\" height=\"450\" alt=\"Neon shop, Chicago\">\n",
+				"content_text": "\n\n<img src=\"https://plutor.micro.blog/uploads/2022/31197a0aa3.jpg\" width=\"600\" height=\"450\" alt=\"Neon shop, Chicago\">\n",
 				"date_published": "2022-10-30T08:31:56-05:00",
 				"url": "https://plutor.micro.blog/2022/10/30/093156.html"
 			},
