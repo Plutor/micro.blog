@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://plutor.micro.blog/2022/12/24/like-last-year.html",
+				
+				"content_html": "<p>Like last year, I played a <em>bit</em> of video games in 2022, almost all on PC. Early in the year, I dropped Stadia and switched to PC Game Pass. I loved Stadia&rsquo;s technology, but the game selection on Game Pass is shockingly good. And everyone knew it was just a matter of time until Stadia was killed.</p>\n<p>I again spent most of my gaming playing co-op with my brother. My favorite game of the year was absolutely We Were Here Forever &ndash; the fourth in that series. They stepped up the visuals and the story and the puzzles this time around, I was very very impressed with it. Other good games we played this year: BBQ Simulator, Biped, Unrailed, You Suck At Parking, Deep Rock Galactic, and Grounded. We also continue to get <em>tons</em> of playtime from Escape Simulator, thanks to two great DLC releases and a very active map building community.</p>\n<p>When I was playing alone, I was typically churning through Vampire Survivors, but occasionally also the Forza Horizon 5 Hot Wheels DLC and Trackmania 2020. I also got my Playdate just a week ago, and I&rsquo;m excited to play through those Season 1 games in the coming months.</p>\n",
+				"content_text": "Like last year, I played a _bit_ of video games in 2022, almost all on PC. Early in the year, I dropped Stadia and switched to PC Game Pass. I loved Stadia's technology, but the game selection on Game Pass is shockingly good. And everyone knew it was just a matter of time until Stadia was killed.\r\n\r\nI again spent most of my gaming playing co-op with my brother. My favorite game of the year was absolutely We Were Here Forever -- the fourth in that series. They stepped up the visuals and the story and the puzzles this time around, I was very very impressed with it. Other good games we played this year: BBQ Simulator, Biped, Unrailed, You Suck At Parking, Deep Rock Galactic, and Grounded. We also continue to get _tons_ of playtime from Escape Simulator, thanks to two great DLC releases and a very active map building community.\r\n\r\nWhen I was playing alone, I was typically churning through Vampire Survivors, but occasionally also the Forza Horizon 5 Hot Wheels DLC and Trackmania 2020. I also got my Playdate just a week ago, and I'm excited to play through those Season 1 games in the coming months.\n",
+				"date_published": "2022-12-24T08:36:24-05:00",
+				"url": "https://plutor.micro.blog/2022/12/24/like-last-year.html"
+			},
+			{
 				"id": "http://plutor.micro.blog/2022/12/12/the-closest-thing.html",
 				
 				"content_html": "<p>The closest thing I have to synesthesia is a perpetual desire to find the volume of music that &ldquo;fills&rdquo; my ears. It&rsquo;s an indescribable and elusive point that&rsquo;s pretty loud, but not <em>very loud</em>.</p>\n",
@@ -50,7 +58,7 @@
 				"id": "http://plutor.micro.blog/2022/11/18/in-response-to.html",
 				
 				"content_html": "<p>In response to this tweet, I asserted we were in the latter group and <em>literally everyone else on the server</em> was certain we were in the former. One said &ldquo;It goes to show how much Plutor is holding back&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In response to this tweet, I asserted we were in the latter group and _literally everyone else on the server_ was certain we were in the former. One said \"It goes to show how much Plutor is holding back\"\n\n<img src=\"https://plutor.micro.blog/uploads/2022/1622d29562.png\" width=\"556\" height=\"189\" alt=\"\">\n",
+				"content_text": "In response to this tweet, I asserted we were in the latter group and _literally everyone else on the server_ was certain we were in the former. One said \"It goes to show how much Plutor is holding back\"\n\n<img src=\"uploads/2022/1622d29562.png\" width=\"556\" height=\"189\" alt=\"\">\n",
 				"date_published": "2022-11-18T09:04:12-05:00",
 				"url": "https://plutor.micro.blog/2022/11/18/in-response-to.html"
 			},
@@ -130,7 +138,7 @@
 				"id": "http://plutor.micro.blog/2022/10/30/093156.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://plutor.micro.blog/uploads/2022/31197a0aa3.jpg\" width=\"600\" height=\"450\" alt=\"Neon shop, Chicago\">\n",
+				"content_text": "\n\n<img src=\"uploads/2022/31197a0aa3.jpg\" width=\"600\" height=\"450\" alt=\"Neon shop, Chicago\">\n",
 				"date_published": "2022-10-30T08:31:56-05:00",
 				"url": "https://plutor.micro.blog/2022/10/30/093156.html"
 			},
