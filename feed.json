@@ -2,17 +2,25 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Plutor",
 	"icon": "https://micro.blog/Plutor/avatar.jpg",
-	"home_page_url": "https://plutor.micro.blog/",
-	"feed_url": "https://plutor.micro.blog/feed.json",
+	"home_page_url": "https://plutor.org/",
+	"feed_url": "https://plutor.org/feed.json",
 	"items": [
 		
 			{
+				"id": "http://plutor.micro.blog/2023/02/22/its-good-that.html",
+				
+				"content_html": "<p>It&rsquo;s good that the Android keyboard is a bit shit because it means I text my friend less dumb shit when I&rsquo;m high than I would otherwise</p>\n",
+				"content_text": "It's good that the Android keyboard is a bit shit because it means I text my friend less dumb shit when I'm high than I would otherwise\n",
+				"date_published": "2023-02-22T20:16:10-05:00",
+				"url": "https://plutor.org/2023/02/22/its-good-that.html"
+			},
+			{
 				"id": "http://plutor.micro.blog/2023/02/14/if-you-woke.html",
 				
-				"content_html": "<p>If you woke up tomorrow the only human on Earth and also immortal, where would be the best place to live? Cities wouldn&rsquo;t be particularly safe because buildings will eventually collapse. You want to be near water and long growing seasons and fertile soil. You want to be far from hurricanes or monsoons or earthquakes. You might want to be near fishing opportunities and existing farm animal populations.</p>\n<p>I don&rsquo;t think the Fertile Crescent is the best place anymore &ndash; it&rsquo;s drier than it once was. But near the Mediterranean still makes sense. Southern Europe? Southeast Asia is ok except for the natural disasters.</p>\n",
-				"content_text": "If you woke up tomorrow the only human on Earth and also immortal, where would be the best place to live? Cities wouldn't be particularly safe because buildings will eventually collapse. You want to be near water and long growing seasons and fertile soil. You want to be far from hurricanes or monsoons or earthquakes. You might want to be near fishing opportunities and existing farm animal populations.\n\nI don't think the Fertile Crescent is the best place anymore -- it's drier than it once was. But near the Mediterranean still makes sense. Southern Europe? Southeast Asia is ok except for the natural disasters.\n",
+				"content_html": "<p>If you woke up tomorrow the only human on Earth and also immortal, where would be the best place to live? Cities wouldn&rsquo;t be particularly safe because buildings will eventually collapse. You want to be near water and long growing seasons and fertile soil. You want to be far from hurricanes or monsoons or earthquakes. You might want to be near fishing opportunities and existing farm animal populations.</p>\n<!-- raw HTML omitted -->\n<p>It shouldn&rsquo;t be surprising that a very good answer is &ldquo;where the densest forests in the world are&rdquo;. What is surprising to me is that a lot of Europe has a good case, too. In terms of getting started, existing farmland in Europe (there&rsquo;s a lot of it) or newly-cleared land in the Amazon (also a lot of that, sadly) might be the best bets. I&rsquo;d be afraid of the maintenance necessary to keep the Amazon at bay, but on the other hand intercontinental travel with no other living humans is bound to be a challenge.</p>\n",
+				"content_text": "If you woke up tomorrow the only human on Earth and also immortal, where would be the best place to live? Cities wouldn't be particularly safe because buildings will eventually collapse. You want to be near water and long growing seasons and fertile soil. You want to be far from hurricanes or monsoons or earthquakes. You might want to be near fishing opportunities and existing farm animal populations.\n\n<img src=\"uploads/2023/8a206d8410.png\" width=\"600\" height=\"310\" alt=\"\" />\n\nIt shouldn't be surprising that a very good answer is \"where the densest forests in the world are\". What is surprising to me is that a lot of Europe has a good case, too. In terms of getting started, existing farmland in Europe (there's a lot of it) or newly-cleared land in the Amazon (also a lot of that, sadly) might be the best bets. I'd be afraid of the maintenance necessary to keep the Amazon at bay, but on the other hand intercontinental travel with no other living humans is bound to be a challenge.\n",
 				"date_published": "2023-02-14T20:20:49-05:00",
-				"url": "https://plutor.micro.blog/2023/02/14/if-you-woke.html"
+				"url": "https://plutor.org/2023/02/14/if-you-woke.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/12/24/like-last-year.html",
@@ -20,7 +28,7 @@
 				"content_html": "<p>Like last year, I played a <em>bit</em> of video games in 2022, almost all on PC. Early in the year, I dropped Stadia and switched to PC Game Pass. I loved Stadia&rsquo;s technology, but the game selection on Game Pass is shockingly good. And everyone knew it was just a matter of time until Stadia was killed.</p>\n<p>I again spent most of my gaming playing co-op with my brother. My favorite game of the year was absolutely We Were Here Forever &ndash; the fourth in that series. They stepped up the visuals and the story and the puzzles this time around, I was very very impressed with it. Other good games we played this year: BBQ Simulator, Biped, Unrailed, You Suck At Parking, Deep Rock Galactic, and Grounded. We also continue to get <em>tons</em> of playtime from Escape Simulator, thanks to two great DLC releases and a very active map building community.</p>\n<p>When I was playing alone, I was typically churning through Vampire Survivors, but occasionally also the Forza Horizon 5 Hot Wheels DLC and Trackmania 2020. I also got my Playdate just a week ago, and I&rsquo;m excited to play through those Season 1 games in the coming months.</p>\n",
 				"content_text": "Like last year, I played a _bit_ of video games in 2022, almost all on PC. Early in the year, I dropped Stadia and switched to PC Game Pass. I loved Stadia's technology, but the game selection on Game Pass is shockingly good. And everyone knew it was just a matter of time until Stadia was killed.\r\n\r\nI again spent most of my gaming playing co-op with my brother. My favorite game of the year was absolutely We Were Here Forever -- the fourth in that series. They stepped up the visuals and the story and the puzzles this time around, I was very very impressed with it. Other good games we played this year: BBQ Simulator, Biped, Unrailed, You Suck At Parking, Deep Rock Galactic, and Grounded. We also continue to get _tons_ of playtime from Escape Simulator, thanks to two great DLC releases and a very active map building community.\r\n\r\nWhen I was playing alone, I was typically churning through Vampire Survivors, but occasionally also the Forza Horizon 5 Hot Wheels DLC and Trackmania 2020. I also got my Playdate just a week ago, and I'm excited to play through those Season 1 games in the coming months.\n",
 				"date_published": "2022-12-24T08:36:24-05:00",
-				"url": "https://plutor.micro.blog/2022/12/24/like-last-year.html"
+				"url": "https://plutor.org/2022/12/24/like-last-year.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/12/12/the-closest-thing.html",
@@ -28,7 +36,7 @@
 				"content_html": "<p>The closest thing I have to synesthesia is a perpetual desire to find the volume of music that &ldquo;fills&rdquo; my ears. It&rsquo;s an indescribable and elusive point that&rsquo;s pretty loud, but not <em>very loud</em>.</p>\n",
 				"content_text": "The closest thing I have to synesthesia is a perpetual desire to find the volume of music that \"fills\" my ears. It's an indescribable and elusive point that's pretty loud, but not _very loud_.\n",
 				"date_published": "2022-12-12T12:09:57-05:00",
-				"url": "https://plutor.micro.blog/2022/12/12/the-closest-thing.html"
+				"url": "https://plutor.org/2022/12/12/the-closest-thing.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/12/01/happy-december-and.html",
@@ -36,7 +44,7 @@
 				"content_html": "<p>Happy December, and happy <a href=\"http://adventofcode.com/2022\">Advent of Code</a>. As per my tradition, I&rsquo;m trying to learn a new language. Since I enjoyed the functional-ish aspects of Kotlin so much last year, I decided to try a fully functional language this year: Haskell. And oh boy was day one a challenge!</p>\n<p>Follow my progress <a href=\"https://github.com/Plutor/advent-of-code-2022\">at my Github repo</a></p>\n",
 				"content_text": "Happy December, and happy [Advent of Code](http://adventofcode.com/2022). As per my tradition, I'm trying to learn a new language. Since I enjoyed the functional-ish aspects of Kotlin so much last year, I decided to try a fully functional language this year: Haskell. And oh boy was day one a challenge!\n\nFollow my progress [at my Github repo](https://github.com/Plutor/advent-of-code-2022)\n",
 				"date_published": "2022-12-01T08:41:33-05:00",
-				"url": "https://plutor.micro.blog/2022/12/01/happy-december-and.html"
+				"url": "https://plutor.org/2022/12/01/happy-december-and.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/27/i-just-deactivated.html",
@@ -44,7 +52,7 @@
 				"content_html": "<p>I just deactivated my Twitter accounts: @Plutor and 9 bots. So long, fucko.</p>\n<p>One bot I can&rsquo;t get into because I can&rsquo;t get the emailed confirmation code. And another was apparently suspended for some reason I don&rsquo;t care to investigate and you have to <em>appeal the suspension in order to deactivate the account</em>.</p>\n",
 				"content_text": "I just deactivated my Twitter accounts: @Plutor and 9 bots. So long, fucko.\n\nOne bot I can't get into because I can't get the emailed confirmation code. And another was apparently suspended for some reason I don't care to investigate and you have to _appeal the suspension in order to deactivate the account_.\n",
 				"date_published": "2022-11-27T08:48:51-05:00",
-				"url": "https://plutor.micro.blog/2022/11/27/i-just-deactivated.html"
+				"url": "https://plutor.org/2022/11/27/i-just-deactivated.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/26/im-building-a.html",
@@ -52,7 +60,7 @@
 				"content_html": "<p>I&rsquo;m building a storage bench for my kids shoes and hats and such, and it&rsquo;s gonna turn out fine, but it makes me want to buy a table saw and a build a real workbench so I can make <em>great</em> stuff.</p>\n",
 				"content_text": "I'm building a storage bench for my kids shoes and hats and such, and it's gonna turn out fine, but it makes me want to buy a table saw and a build a real workbench so I can make _great_ stuff.\n",
 				"date_published": "2022-11-26T20:06:35-05:00",
-				"url": "https://plutor.micro.blog/2022/11/26/im-building-a.html"
+				"url": "https://plutor.org/2022/11/26/im-building-a.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/20/this-is-my.html",
@@ -60,15 +68,15 @@
 				"content_html": "<p>This is my new calendar idea, the spool calendar. The spool currently goes until the first week of Feb 2023, each week I can just pull it upwards and cut off the excess.</p>\n<!-- raw HTML omitted -->\n<p>The biggest problems to resolve for the next prototype are 1) make it easier to mount and feed the spool, and 2) how to keep it from rolling back up (I&rsquo;ve got it sorta taped there right now, but some sort of little clip might be better)</p>\n<p>Also it&rsquo;s about 14x10 right now but it should probably be more like 18x16, the days are a little cramped and a squarer 5-week layout is more typical for calendars</p>\n",
 				"content_text": "This is my new calendar idea, the spool calendar. The spool currently goes until the first week of Feb 2023, each week I can just pull it upwards and cut off the excess.\n\n<img src=\"uploads/2022/1ac2c51f75.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nThe biggest problems to resolve for the next prototype are 1) make it easier to mount and feed the spool, and 2) how to keep it from rolling back up (I've got it sorta taped there right now, but some sort of little clip might be better)\n\nAlso it's about 14x10 right now but it should probably be more like 18x16, the days are a little cramped and a squarer 5-week layout is more typical for calendars\n",
 				"date_published": "2022-11-20T09:22:17-05:00",
-				"url": "https://plutor.micro.blog/2022/11/20/this-is-my.html"
+				"url": "https://plutor.org/2022/11/20/this-is-my.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/18/in-response-to.html",
 				
 				"content_html": "<p>In response to this tweet, I asserted we were in the latter group and <em>literally everyone else on the server</em> was certain we were in the former. One said &ldquo;It goes to show how much Plutor is holding back&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In response to this tweet, I asserted we were in the latter group and _literally everyone else on the server_ was certain we were in the former. One said \"It goes to show how much Plutor is holding back\"\n\n<img src=\"https://plutor.micro.blog/uploads/2022/1622d29562.png\" width=\"556\" height=\"189\" alt=\"\">\n",
+				"content_text": "In response to this tweet, I asserted we were in the latter group and _literally everyone else on the server_ was certain we were in the former. One said \"It goes to show how much Plutor is holding back\"\n\n<img src=\"uploads/2022/1622d29562.png\" width=\"556\" height=\"189\" alt=\"\">\n",
 				"date_published": "2022-11-18T09:04:12-05:00",
-				"url": "https://plutor.micro.blog/2022/11/18/in-response-to.html"
+				"url": "https://plutor.org/2022/11/18/in-response-to.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/15/my-friend-groups.html",
@@ -76,7 +84,7 @@
 				"content_html": "<p>My friend group&rsquo;s Slack in 2020: &ldquo;We should move to Discord&rdquo;</p>\n<p>My friend group&rsquo;s Slack in 2021: &ldquo;We should move to Discord&rdquo;</p>\n<p>My friend group&rsquo;s Slack in 2022: &ldquo;We should move to Discord&rdquo;</p>\n<p>My friend group&rsquo;s Slack today: [tumbleweeds, because everyone&rsquo;s on Discord]</p>\n",
 				"content_text": "My friend group's Slack in 2020: \"We should move to Discord\"\r\n\r\nMy friend group's Slack in 2021: \"We should move to Discord\"\r\n\r\nMy friend group's Slack in 2022: \"We should move to Discord\"\r\n\r\nMy friend group's Slack today: \\[tumbleweeds, because everyone's on Discord\\]\r\n\r\n",
 				"date_published": "2022-11-15T14:13:30-05:00",
-				"url": "https://plutor.micro.blog/2022/11/15/my-friend-groups.html"
+				"url": "https://plutor.org/2022/11/15/my-friend-groups.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/12/in-june-aliens.html",
@@ -84,7 +92,7 @@
 				"content_html": "<p>In June 1976, aliens landed on a quiet farm in northern Wisconsin. Three of them left their ship and walked a couple hundred yards to the farmhouse. When the farmer answered the door, they were shocked to discover that we didn&rsquo;t look like aliens. We looked just like them. After a brief discussion, the landing party decided this wouldn&rsquo;t make a very good press release.</p>\n<p>They went back to their ship and left to find a planet with more exotic looking aliens, and have never returned.</p>\n",
 				"content_text": "In June 1976, aliens landed on a quiet farm in northern Wisconsin. Three of them left their ship and walked a couple hundred yards to the farmhouse. When the farmer answered the door, they were shocked to discover that we didn't look like aliens. We looked just like them. After a brief discussion, the landing party decided this wouldn't make a very good press release.\n\nThey went back to their ship and left to find a planet with more exotic looking aliens, and have never returned.\n",
 				"date_published": "2022-11-12T11:42:33-05:00",
-				"url": "https://plutor.micro.blog/2022/11/12/in-june-aliens.html"
+				"url": "https://plutor.org/2022/11/12/in-june-aliens.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/10/i-invented-a.html",
@@ -92,7 +100,7 @@
 				"content_html": "<p>I invented a new type of wall calendar last night and I can&rsquo;t stop thinking about it.</p>\n",
 				"content_text": "I invented a new type of wall calendar last night and I can't stop thinking about it.\n",
 				"date_published": "2022-11-10T12:56:01-05:00",
-				"url": "https://plutor.micro.blog/2022/11/10/i-invented-a.html"
+				"url": "https://plutor.org/2022/11/10/i-invented-a.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/09/this-video-allowed.html",
@@ -100,7 +108,7 @@
 				"content_html": "<p>This video allowed John Conway to blow my mind from beyond the grave. I can&rsquo;t stop thinking about it.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This video allowed John Conway to blow my mind from beyond the grave. I can't stop thinking about it.\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZYj4NkeGPdM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
 				"date_published": "2022-11-09T12:50:17-05:00",
-				"url": "https://plutor.micro.blog/2022/11/09/this-video-allowed.html"
+				"url": "https://plutor.org/2022/11/09/this-video-allowed.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/08/coding-in-javascript.html",
@@ -108,7 +116,7 @@
 				"content_html": "<p>Coding in JavaScript makes me feel like Harrison Bergeron</p>\n",
 				"content_text": "Coding in JavaScript makes me feel like Harrison Bergeron\n",
 				"date_published": "2022-11-08T11:32:15-05:00",
-				"url": "https://plutor.micro.blog/2022/11/08/coding-in-javascript.html"
+				"url": "https://plutor.org/2022/11/08/coding-in-javascript.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/01/painting-of-plutor.html",
@@ -116,7 +124,7 @@
 				"content_html": "<p>Painting of Plutor holding a large plate of vegetables, by Frida Kahlo</p>\n<!-- raw HTML omitted -->\n<p>Stable Diffusion trained with Dreambooth, <a href=\"https://www.youtube.com/watch?v=ravETUa84P8\">try it yourself</a></p>\n",
 				"content_text": "Painting of Plutor holding a large plate of vegetables, by Frida Kahlo\n\n<img src=\"uploads/2022/9b46b4953b.jpg\" width=\"512\" height=\"512\" alt=\"Painting of Plutor holding a large plate of vegetables, by Frida Kahlo\">\n\nStable Diffusion trained with Dreambooth, [try it yourself](https://www.youtube.com/watch?v=ravETUa84P8)\n\n",
 				"date_published": "2022-11-01T20:22:15-05:00",
-				"url": "https://plutor.micro.blog/2022/11/01/painting-of-plutor.html"
+				"url": "https://plutor.org/2022/11/01/painting-of-plutor.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/11/01/the-scariest-part.html",
@@ -124,7 +132,7 @@
 				"content_html": "<p>The scariest part of my commute has bike lanes now, but I&rsquo;m not totally sure if it&rsquo;s in improvement. Part of Cambridge St in Boston is wonderful (separated by plastic posts close to City Hall), but other parts are weird (no separation) or bad (the Blue Bikes in front of Whole Foods is.. IN THE BIKE LANE!?), and the pavement is still a potholed disaster.</p>\n<p>And after biking in Chicago a couple weeks ago, I really wish this city had dedicated bike traffic signals.</p>\n",
 				"content_text": "The scariest part of my commute has bike lanes now, but I'm not totally sure if it's in improvement. Part of Cambridge St in Boston is wonderful (separated by plastic posts close to City Hall), but other parts are weird (no separation) or bad (the Blue Bikes in front of Whole Foods is.. IN THE BIKE LANE!?), and the pavement is still a potholed disaster.\r\n\r\nAnd after biking in Chicago a couple weeks ago, I really wish this city had dedicated bike traffic signals.\n",
 				"date_published": "2022-11-01T07:10:52-05:00",
-				"url": "https://plutor.micro.blog/2022/11/01/the-scariest-part.html"
+				"url": "https://plutor.org/2022/11/01/the-scariest-part.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/10/31/why-does-posting.html",
@@ -132,7 +140,7 @@
 				"content_html": "<p>Why does posting here feel so much more navel-gazey than Twitter did? I know it&rsquo;s the same but it feels different?</p>\n",
 				"content_text": "Why does posting here feel so much more navel-gazey than Twitter did? I know it's the same but it feels different?\n",
 				"date_published": "2022-10-31T08:14:38-05:00",
-				"url": "https://plutor.micro.blog/2022/10/31/why-does-posting.html"
+				"url": "https://plutor.org/2022/10/31/why-does-posting.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/10/30/waiting-for-gdel.html",
@@ -140,15 +148,15 @@
 				"content_html": "<p>Waiting for Gödel</p>\n",
 				"content_text": "Waiting for Gödel\n",
 				"date_published": "2022-10-30T11:00:47-05:00",
-				"url": "https://plutor.micro.blog/2022/10/30/waiting-for-gdel.html"
+				"url": "https://plutor.org/2022/10/30/waiting-for-gdel.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/10/30/093156.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://plutor.micro.blog/uploads/2022/31197a0aa3.jpg\" width=\"600\" height=\"450\" alt=\"Neon shop, Chicago\">\n",
+				"content_text": "\n\n<img src=\"uploads/2022/31197a0aa3.jpg\" width=\"600\" height=\"450\" alt=\"Neon shop, Chicago\">\n",
 				"date_published": "2022-10-30T08:31:56-05:00",
-				"url": "https://plutor.micro.blog/2022/10/30/093156.html"
+				"url": "https://plutor.org/2022/10/30/093156.html"
 			},
 			{
 				"id": "http://plutor.micro.blog/2022/10/30/i-did-not.html",
@@ -156,7 +164,7 @@
 				"content_html": "<p>I did not realize until I deleted my Twitter how much I depended on it for a mental health outlet. Going back to Wordpress looks kafkaesque by comparison, how did we ever live like that?</p>\n",
 				"content_text": "I did not realize until I deleted my Twitter how much I depended on it for a mental health outlet. Going back to Wordpress looks kafkaesque by comparison, how did we ever live like that?\n",
 				"date_published": "2022-10-30T08:03:38-05:00",
-				"url": "https://plutor.micro.blog/2022/10/30/i-did-not.html"
+				"url": "https://plutor.org/2022/10/30/i-did-not.html"
 			}
 	]
 }
