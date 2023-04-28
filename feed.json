@@ -9,8 +9,8 @@
 			{
 				"id": "http://plutor.micro.blog/2023/04/17/imagine-a-cylindrical.html",
 				
-				"content_html": "<p>Imagine a cylindrical glass with radius 1 and a cube of ice in it, and then bourbon poured exactly to the height of the top of the cube. What cube side length will result in the most bourbon poured?</p>\n<blockquote>\n<p>! I think the answer is √(π/3), which is 1.023, so a cube very slightly more than half the diameter of the glass</p>\n</blockquote>\n",
-				"content_text": "Imagine a cylindrical glass with radius 1 and a cube of ice in it, and then bourbon poured exactly to the height of the top of the cube. What cube side length will result in the most bourbon poured?\n\n>! I think the answer is √(π/3), which is 1.023, so a cube very slightly more than half the diameter of the glass\n",
+				"content_html": "<p>Imagine a cylindrical glass with radius 1 and a cube of ice in it, and then bourbon poured exactly to the height of the top of the cube. What cube side length will result in the most bourbon poured?</p>\n<p>I have an answer, using calculus for the first time since probably 2000, and the answer is not a particularly notable value.</p>\n",
+				"content_text": "Imagine a cylindrical glass with radius 1 and a cube of ice in it, and then bourbon poured exactly to the height of the top of the cube. What cube side length will result in the most bourbon poured?\n\nI have an answer, using calculus for the first time since probably 2000, and the answer is not a particularly notable value.\n",
 				"date_published": "2023-04-17T09:15:49-04:00",
 				"url": "https://plutor.org/2023/04/17/imagine-a-cylindrical.html"
 			},
