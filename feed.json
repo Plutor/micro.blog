@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://plutor.micro.blog/2024/04/01/ive-got-two.html",
+				
+				"content_html": "<p>I&rsquo;ve got two vacations coming up in the next few weeks: 1 night just me and my dog; and 4 nights with my kids and my parents.</p>\n<p>Guess which one I&rsquo;m extremely anxious about.</p>\n",
+				"content_text": "I've got two vacations coming up in the next few weeks: 1 night just me and my dog; and 4 nights with my kids and my parents.\n\nGuess which one I'm extremely anxious about.\n",
+				"date_published": "2024-04-01T18:09:39-05:00",
+				"url": "https://plutor.org/2024/04/01/ive-got-two.html"
+			},
+			{
 				"id": "http://plutor.micro.blog/2023/12/01/happy-advent-of.html",
 				
 				"content_html": "<p>Happy <!-- raw HTML omitted -->Advent Of Code 2023<!-- raw HTML omitted -->! I&rsquo;m <!-- raw HTML omitted -->learning Scala<!-- raw HTML omitted --> this year. I had a lot of fun with Kotlin in 2021, and was traumatized by Haskell last year, so I&rsquo;m hoping Scala&rsquo;s mix of functional and iterative hits the right sweet spot again.</p>\n<p>Note to self: <!-- raw HTML omitted -->this video<!-- raw HTML omitted --> is super cool, so maybe Lua on Playdate (or some similar outside-the-box idea) would be good for next year.</p>\n",
